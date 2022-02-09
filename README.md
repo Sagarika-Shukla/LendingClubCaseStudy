@@ -2,8 +2,9 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#Conslusions)
-* [Technologies Used](#technologies)
+* [Technologies Used](#Technologies Used)
 * [Acknowledgements](#Acknowledgements)
+* [Contact](#Contact)
   
 ## General Information
 - Provide general information about your project here.
